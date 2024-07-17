@@ -1,0 +1,15 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP,LCSC
+"C1,C2,C3,C4,C5,C6,C7,C13",0.1µF,~,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,8,,C49678
+"C8,C9",20pF,~,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,,C1798
+C10,0.47µF,~,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,,C13967
+"C11,C12",100µF  16v,~,Capacitor_SMD:CP_Elec_6.3x5.9,2,,C340733
+FB1,FerriteBead_Small,~,Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,,C1015
+J1,USB_A,~,Connector_USB:USB_A_Molex_67643_Horizontal,1,,C456018
+J2,DE9_Receptacle_MountingHoles,~,Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm,1,,C19077337
+J3,Barrel_Jack_MountingPin,~,Connector_BarrelJack:BarrelJack_Horizontal,1,,C16214
+R1,1k,~,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,,C17513
+R3,4k7,~,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,,C17673
+U1,CH375,https://www.wch-ic.com/downloads/CH375DS1_PDF.html,Package_SO:SOP-28_8.4x18.16mm_P1.27mm,1,,C8962
+U2,MAX3232,https://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,1,,C193666
+U3,IP4234CZ6,https://assets.nexperia.com/documents/data-sheet/IP4234CZ6.pdf,Package_TO_SOT_SMD:SC-74-6_1.55x2.9mm_P0.95mm,1,,C355086
+Y1,12MHz,~,Crystal:Crystal_HC49-4H_Vertical,1,,C2857630
